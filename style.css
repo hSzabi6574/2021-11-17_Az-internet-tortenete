@@ -1,13 +1,15 @@
 body {
 	color: black;
+	background-color: #E0E0E0;
 }
 
 p {
+	text-align: justify;
 
 }
 
 a, a:link, a:visited, a:active {
-
+	color: #666584;
 }
 
 /* Középső hasáb */
