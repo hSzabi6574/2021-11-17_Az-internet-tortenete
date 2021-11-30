@@ -20,13 +20,17 @@ padding: 0 20px 0 20px;
 }
 
 /* Fejléc */
-#header img {
+#header {
+	margin-bottom: 10;
+}
+#header img }
 	display: block;
 }
 
 
 /* Navigációs sáv */
 #nav {
+	margin-bottom: 10;
 
 }
 
@@ -54,11 +58,13 @@ padding: 0 20px 0 20px;
 
 /* Tartalom */
 #content {
+	margin-bottom: 10;
 
 }
 
 /*Lábléc  */
 #footer {
+	margin-bottom: 10;
 
 }
 
