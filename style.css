@@ -64,7 +64,8 @@ background-color: #b1b7df;
 /* Tartalom */
 #content {
 	margin-bottom: 10;
-
+    background-color: white;
+	padding: 10px;
 }
 
 /*Lábléc  */
